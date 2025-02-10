@@ -40,3 +40,19 @@
 .read-the-docs {
   color: #888;
 }
+
+/* Dark mode css */
+body.dark-mode {
+  background-color: #222;
+  color: white;
+}
+.theme-container {
+  text-align: center;
+  margin-top: 20px;
+}
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+/* -------------- */

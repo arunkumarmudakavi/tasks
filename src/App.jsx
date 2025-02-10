@@ -1,6 +1,9 @@
-// import {Task} from './components/task-1/task'
-// import {Task} from './components/task-2/task'
-import {Task} from "./components/task-3/Task"
+import "tailwindcss";
+// import {Task} from './components/Counter/task'
+// import {Task} from './components/ToDoList/task'
+// import {Task} from './components/ModeToggle/Task'
+// import "./App.css" // for ModeToggle
+import { Task } from "./components/FormValidation/Task"
 
 function App() {
 
